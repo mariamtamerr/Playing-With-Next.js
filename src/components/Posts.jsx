@@ -66,7 +66,7 @@ const Posts = () => {
                           <div class="sm:flex">
                           <div class="flex-shrink-0 relative mx-auto  rounded-xl overflow-hidden w-full sm:w-56 h-44">
                                 {/* <div> */}
-                            <Image src={postPhoto?.thumbnailUrl} class="group-hover:scale-105   transition-transform duration-500 ease-in-out w-full h-full absolute top-0  object-cover rounded-xl" layout="fill"></Image>
+                            <Image src={postPhoto?.thumbnailUrl} class="group-hover:scale-105   transition-transform duration-500 ease-in-out w-full h-full absolute top-0  object-cover rounded-xl" layout="fill" alt="image"></Image>
                           </div>
                       </div>
 
