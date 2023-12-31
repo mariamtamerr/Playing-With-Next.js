@@ -100,7 +100,7 @@ const PostDetails = () => {
       <div class="space-y-3">
         <h2 class="text-2xl font-bold md:text-3xl dark:text-white">Announcing a free plan for small teams</h2>
 
-        <p class="text-lg text-gray-800 dark:text-gray-200">At preline, our mission has always been focused on bringing openness and transparency to the design process. We've always believed that by providing a space where designers can share ongoing work not only empowers them to make better products, it also helps them grow.</p>
+        <p class="text-lg text-gray-800 dark:text-gray-200">At preline, our mission has always been focused on bringing openness and transparency to the design process. We ve always believed that by providing a space where designers can share ongoing work not only empowers them to make better products, it also helps them grow.</p>
       </div>
 
       <p class="text-lg text-gray-800 dark:text-gray-200">We're proud to be a part of creating a more open culture and to continue building a product that supports this vision.</p>
