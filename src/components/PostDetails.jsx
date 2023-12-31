@@ -103,7 +103,7 @@ const PostDetails = () => {
         <p class="text-lg text-gray-800 dark:text-gray-200">At preline, our mission has always been focused on bringing openness and transparency to the design process. We ve always believed that by providing a space where designers can share ongoing work not only empowers them to make better products, it also helps them grow.</p>
       </div>
 
-      <p class="text-lg text-gray-800 dark:text-gray-200">We're proud to be a part of creating a more open culture and to continue building a product that supports this vision.</p>
+      <p class="text-lg text-gray-800 dark:text-gray-200">We  re proud to be a part of creating a more open culture and to continue building a product that supports this vision.</p>
 
       <figure>
         {/* <img class="w-full object-cover rounded-xl" src="https://images.unsplash.com/photo-1670272505340-d906d8d77d03?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="Image Description"/> */}
@@ -115,9 +115,9 @@ const PostDetails = () => {
         </figcaption>
       </figure>
 
-      <p class="text-lg text-gray-800 dark:text-gray-200">As we've grown, we've seen how Preline has helped companies such as Spotify, Microsoft, Airbnb, Facebook, and Intercom bring their designers closer together to create amazing things. We've also learned that when the culture of sharing is brought in earlier, the better teams adapt and communicate with one another.</p>
+      <p class="text-lg text-gray-800 dark:text-gray-200">As we ve grown, we ve seen how Preline has helped companies such as Spotify, Microsoft, Airbnb, Facebook, and Intercom bring their designers closer together to create amazing things. We have also learned that when the culture of sharing is brought in earlier, the better teams adapt and communicate with one another.</p>
 
-      <p class="text-lg text-gray-800 dark:text-gray-200">That's why we are excited to share that we now have a <a class="text-blue-600 decoration-2 hover:underline font-medium" href="#">free version of Preline</a>, which will allow individual designers, startups and other small teams a chance to create a culture of openness early on.</p>
+      <p class="text-lg text-gray-800 dark:text-gray-200">That s why we are excited to share that we now have a <a class="text-blue-600 decoration-2 hover:underline font-medium" href="#">free version of Preline</a>, which will allow individual designers, startups and other small teams a chance to create a culture of openness early on.</p>
 
       <blockquote class="text-center p-4 sm:px-7">
         <p class="text-xl font-medium text-gray-800 md:text-2xl md:leading-normal xl:text-2xl xl:leading-normal dark:text-gray-200">
@@ -145,11 +145,11 @@ const PostDetails = () => {
       </div>
 
       <ul class="list-disc list-outside space-y-5 ps-5 text-lg text-gray-800 dark:text-gray-200">
-        <li class="ps-2">Preline allows us to collaborate in real time and is a really great way for leadership on the team to stay up-to-date with what everybody is working on," <a class="text-blue-600 decoration-2 hover:underline font-medium" href="#">said</a> Stewart Scott-Curran, Intercom's Director of Brand Design.</li>
-        <li class="ps-2">Preline opened a new way of sharing. It's a persistent way for everyone to see and absorb each other's work," said David Scott, Creative Director at <a class="text-blue-600 decoration-2 hover:underline font-medium" href="#">Eventbrite</a>.</li>
+        <li class="ps-2">Preline allows us to collaborate in real time and is a really great way for leadership on the team to stay up-to-date with what everybody is working on," <a class="text-blue-600 decoration-2 hover:underline font-medium" href="#">said</a> Stewart Scott-Curran, Intercoms Director of Brand Design.</li>
+        <li class="ps-2">Preline opened a new way of sharing. It is a persistent way for everyone to see and absorb each others work," said David Scott, Creative Director at <a class="text-blue-600 decoration-2 hover:underline font-medium" href="#">Eventbrite</a>.</li>
       </ul>
 
-      <p class="text-lg text-gray-800 dark:text-gray-200">Small teams and individual designers need a space where they can watch the design process unfold, both for themselves and for the people they work with – no matter if it's a fellow designer, product manager, developer or client. Preline allows you to invite more people into the process, creating a central place for conversation around design. As those teams grow, transparency and collaboration becomes integrated in how they communicate and work together.</p>
+      <p class="text-lg text-gray-800 dark:text-gray-200">Small teams and individual designers need a space where they can watch the design process unfold, both for themselves and for the people they work with  no matter if it is a fellow designer, product manager, developer or client. Preline allows you to invite more people into the process, creating a central place for conversation around design. As those teams grow, transparency and collaboration becomes integrated in how they communicate and work together.</p>
 
       <div>
         <a class="m-1 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-gray-100 text-gray-800 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 dark:text-gray-200 dark:focus:outline-none dark:focus:ring-1 dark:focus:ring-gray-600" href="#">
