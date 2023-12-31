@@ -10,7 +10,11 @@ const Cards = () => {
           <div className="group flex flex-col h-full  bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7]">
             {/* <div className="h-52 flex flex-col justify-center items-center bg-amber-500 rounded-t-xl"> */}
             {/* <Image class="w-full object-cover rounded-xl" src={one}  alt="Image Description"></Image> */}
-            <img class="w-full object-cover rounded-xl" src="https://images.unsplash.com/photo-1540575861501-7cf05a4b125a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="Image Description"/>
+            <Image
+  className="w-full object-cover rounded-xl" src="https://images.unsplash.com/photo-1540575861501-7cf05a4b125a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" alt="Image Description"
+  width={2070}
+  height={1080} // Adjust height accordingly to maintain aspect ratio
+></Image>
             {/* </div> */}
             <div className="p-4 md:p-6">
             A compelling introduction to the topic or summary of the blog post content. Engage readers by highlighting the main points or insights they can expect from the post.
@@ -24,7 +28,13 @@ const Cards = () => {
           {/* Card 2 */}
           <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7]">
             {/* <div className="h-52 flex flex-col justify-center items-center bg-rose-500 rounded-t-xl"> */}
-            <img class="w-full object-cover rounded-xl" src="https://images.unsplash.com/photo-1670272498380-eb330b61f3cd?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80" alt="Image Description"/>
+            <Image
+  className="w-full object-cover rounded-xl"
+  src="https://images.unsplash.com/photo-1670272498380-eb330b61f3cd?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80"
+  alt="Image Description"
+  width={2070}
+  height={1080} // Adjust height accordingly to maintain aspect ratio
+></Image>
             {/* </div> */}
             <div className="p-4 md:p-6">
                A compelling introduction to the topic or summary of the blog post content. Engage readers by highlighting the main points or insights they can expect from the post.
@@ -38,7 +48,13 @@ const Cards = () => {
           {/* Card 3 */}
           <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7]">
             {/* <div className="h-52 flex flex-col justify-center items-center bg-amber-500 rounded-t-xl"> */}
-            <img class="w-full object-cover rounded-xl" src="https://images.unsplash.com/photo-1670272498380-eb330b61f3cd?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80" alt="Image Description"/>
+            <Image
+  className="w-full object-cover rounded-xl"
+  src="https://images.unsplash.com/photo-1670272498380-eb330b61f3cd?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2070&amp;q=80"
+  alt="Image Description"
+  width={2070}
+  height={1080} // Adjust height accordingly to maintain aspect ratio
+></Image>
             {/* </div> */}
             <div className="p-4 md:p-6">
                A compelling introduction to the topic or summary of the blog post content. Engage readers by highlighting the main points or insights they can expect from the post.

@@ -1,5 +1,6 @@
 "use client";
 
+import Image from 'next/image';
 import Link from 'next/link';
 import { useEffect, useState } from 'react'
 
@@ -65,7 +66,7 @@ const Posts = () => {
                           <div class="sm:flex">
                           <div class="flex-shrink-0 relative mx-auto  rounded-xl overflow-hidden w-full sm:w-56 h-44">
                                 {/* <div> */}
-                            <img src={postPhoto?.thumbnailUrl} className="group-hover:scale-105   transition-transform duration-500 ease-in-out w-full h-full absolute top-0  object-cover rounded-xl"/>
+                            <Image src={postPhoto?.thumbnailUrl} className="group-hover:scale-105   transition-transform duration-500 ease-in-out w-full h-full absolute top-0  object-cover rounded-xl" layout="fill"></Image>
                           </div>
                       </div>
 
